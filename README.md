@@ -1,6 +1,4 @@
-# Tic Tac Toe game by React tutorial
-
-[Tutorial link](https://reactjs.org/tutorial/tutorial.html)
+# Tic Tac Toe game
 
 Usage:
 
