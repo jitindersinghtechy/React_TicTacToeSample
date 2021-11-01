@@ -1,0 +1,24 @@
+.time-up{
+    color: #bf2c2c;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 10px;
+}
+.text-red{color: red}
+
+.game {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+
+.game-top {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.game-top h4, .game-top > div {
+    display: inline-block;
+}
